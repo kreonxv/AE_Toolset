@@ -1,4 +1,4 @@
-# After Effects Scripts Collection
+# After Effects Toolset
 
 A collection of productivity scripts and tools for Adobe After Effects to streamline your workflow and automate common tasks.
 
