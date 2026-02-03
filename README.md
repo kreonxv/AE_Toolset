@@ -9,6 +9,7 @@ A collection of productivity scripts and tools for Adobe After Effects to stream
   - [Camera Projection Tool](#camera-projection-tool)
   - [CornerPin Placer](#cornerpin-placer)
   - [PickWhip](#pickwhip)
+  - [AnchorPointTool](#anchorpointtool)
   - [ClipSpeed](#clipspeed)
   - [Photos2Slides](#photos2slides)
   - [PreComposer](#precomposer)
@@ -77,6 +78,21 @@ A property pick whip tool that allows you to easily link properties between laye
 - Create expression links between properties
 - Silent pick operation with detailed whip alerts
 - Simple two-button interface
+
+---
+
+### AnchorPointTool
+
+![AnchorPointTool](images/AnchorPointTool.PNG)
+
+**Type:** ScriptUI Panel
+
+A utility for quickly moving and setting anchor points across layers and compositions, improving workflow when aligning and transforming layer pivots.
+
+**Features:**
+- Quickly set anchor point to layer centers, corners, or custom positions
+- Apply anchor changes to multiple selected layers
+- Align and lock anchor points for consistent transformations
 
 ---
 
